@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">3D contribution landscape</title>
+  <desc id="desc">Placeholder displayed until the GitHub Actions workflow generates the contribution landscape.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#94a3b8" stroke-opacity=".055"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="260" rx="18" fill="url(#grid)"/>
+  <g transform="translate(64 74)" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <text fill="#58a6ff" font-size="15" font-weight="700" letter-spacing="2">CONTRIBUTION LANDSCAPE</text>
+    <text y="50" fill="#f8fafc" font-size="34" font-weight="700">3D profile graph is ready to generate.</text>
+    <text y="88" fill="#8b949e" font-size="18">Run the “GitHub Profile 3D Contrib” workflow once. After that it updates automatically every day.</text>
+  </g>
+</svg>
