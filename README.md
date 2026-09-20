@@ -55,12 +55,3 @@ Webプロダクトを作るフロントエンドエンジニアです。
 <code>TypeScript</code> · <code>React</code> · <code>Next.js</code> · <code>Supabase</code> · <code>Cloudflare</code> · <code>Three.js / WebGL</code> · <code>M5Stack / ESP32</code>
 
 AIを「補助ツール」ではなく、設計・実装・レビュー・検証まで含めた開発フローの一部として使っています。
-
-## Recent public activity
-
-<!-- RECENT_ACTIVITY:start -->
-- `2026-09-16` Created branch `codex/kokoiku-cue-official-firmware` in [blanket11/kokoiku-cue](https://github.com/blanket11/kokoiku-cue)
-- `2026-09-16` Created branch `main` in [blanket11/kokoiku-cue](https://github.com/blanket11/kokoiku-cue)
-<!-- RECENT_ACTIVITY:end -->
-
-<sub>Recent Activity shows public GitHub events only. Private repository names and activity are not exposed here.</sub>
