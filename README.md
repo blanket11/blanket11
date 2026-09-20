@@ -56,12 +56,6 @@ Webプロダクトを作るフロントエンドエンジニアです。
 
 AIを「補助ツール」ではなく、設計・実装・レビュー・検証まで含めた開発フローの一部として使っています。
 
-## Contribution activity
-
-GitHubの草を3Dで可視化しています。公開リポジトリだけに偏る言語比率やコミット集計は出さず、**Contributionの推移そのもの**を表示しています。
-
-<img src="./profile-3d-contrib/profile-night-view-clean.svg" width="100%" alt="3D GitHub contribution landscape" />
-
 ## Recent public activity
 
 <!-- RECENT_ACTIVITY:start -->
