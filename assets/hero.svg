@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">HARU — Front-end Engineer</title>
+  <desc id="desc">GitHub profile hero for HARU, a front-end engineer building web products with AI.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0a0f16"/>
+    </linearGradient>
+    <radialGradient id="cyanGlow" cx="78%" cy="24%" r="48%">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity=".24"/>
+      <stop offset=".55" stop-color="#22d3ee" stop-opacity=".06"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="violetGlow" cx="88%" cy="92%" r="52%">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#94a3b8" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="28"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="24" fill="url(#grid)"/>
+  <rect width="1200" height="340" rx="24" fill="url(#cyanGlow)"/>
+  <rect width="1200" height="340" rx="24" fill="url(#violetGlow)"/>
+
+  <circle cx="1000" cy="80" r="120" fill="#22d3ee" fill-opacity=".05" filter="url(#blur)"/>
+  <circle cx="1110" cy="270" r="150" fill="#8b5cf6" fill-opacity=".045" filter="url(#blur)"/>
+
+  <g transform="translate(68 58)">
+    <rect x="0" y="0" width="8" height="224" rx="4" fill="#2f81f7"/>
+    <text x="34" y="22" fill="#7dd3fc" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="2.3">HARU / @blanket11</text>
+    <text x="34" y="100" fill="#f8fafc" font-size="64" font-weight="760" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">Front-end Engineer</text>
+    <text x="36" y="142" fill="#94a3b8" font-size="24" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">AI × Web × Product Development</text>
+
+    <g transform="translate(34 176)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">
+      <rect width="112" height="34" rx="17" fill="#161b22" stroke="#30363d"/>
+      <text x="56" y="22" text-anchor="middle" fill="#c9d1d9">TypeScript</text>
+
+      <rect x="126" width="88" height="34" rx="17" fill="#161b22" stroke="#30363d"/>
+      <text x="170" y="22" text-anchor="middle" fill="#c9d1d9">Next.js</text>
+
+      <rect x="228" width="98" height="34" rx="17" fill="#161b22" stroke="#30363d"/>
+      <text x="277" y="22" text-anchor="middle" fill="#c9d1d9">WebGL</text>
+
+      <rect x="340" width="104" height="34" rx="17" fill="#161b22" stroke="#30363d"/>
+      <text x="392" y="22" text-anchor="middle" fill="#c9d1d9">M5Stack</text>
+    </g>
+  </g>
+
+  <g transform="translate(930 70)" opacity=".95">
+    <circle cx="80" cy="80" r="68" fill="none" stroke="#22d3ee" stroke-opacity=".25" stroke-width="1.5"/>
+    <circle cx="80" cy="80" r="46" fill="none" stroke="#8b5cf6" stroke-opacity=".33" stroke-width="1.5"/>
+    <path d="M20 80h120M80 20v120" stroke="#94a3b8" stroke-opacity=".14"/>
+    <circle cx="80" cy="80" r="8" fill="#58a6ff"/>
+    <circle cx="125" cy="52" r="5" fill="#3fb950"/>
+    <circle cx="42" cy="118" r="4" fill="#a78bfa"/>
+  </g>
+
+  <text x="1124" y="308" text-anchor="end" fill="#64748b" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">TOKYO · 2026</text>
+</svg>
