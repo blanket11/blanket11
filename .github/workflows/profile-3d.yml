@@ -21,6 +21,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      - name: Keep contribution landscape only
+        run: python3 scripts/clean_3d_contrib_svg.py
+
       - name: Commit generated images
         run: |
           git config user.name "github-actions[bot]"
