@@ -56,22 +56,11 @@ Webプロダクトを作るフロントエンドエンジニアです。
 
 AIを「補助ツール」ではなく、設計・実装・レビュー・検証まで含めた開発フローの一部として使っています。
 
-## GitHub
+## Contribution activity
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-stats-extended.vercel.app/api?username=blanket11&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=3fb950&amp;include_all_commits=true&amp;rank_icon=github"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=blanket11&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=0969da&amp;text_color=24292f&amp;icon_color=1a7f37&amp;include_all_commits=true&amp;rank_icon=github"
-    alt="HARU's GitHub stats"
-  />
-</picture>
+GitHubの草を3Dで可視化しています。公開リポジトリだけに偏る言語比率やコミット集計は出さず、**Contributionの推移そのもの**を表示しています。
 
-### Contribution landscape
-
-<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D GitHub contribution graph" />
+<img src="./profile-3d-contrib/profile-night-view-clean.svg" width="100%" alt="3D GitHub contribution landscape" />
 
 ## Recent public activity
 
